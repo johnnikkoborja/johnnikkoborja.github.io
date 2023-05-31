@@ -2,8 +2,8 @@
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
-    sortBy: 'stars', // stars | updated
+    username: 'johnnikkoborja', // Your GitHub org/user name. (Required)
+    sortBy: 'updated', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
@@ -11,21 +11,19 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: 'john-nikko-b-084606153',
     facebook: '',
     instagram: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: '',
+    dev: '',
     stackoverflow: '', // format: userid/username
     skype: '',
     telegram: '',
-    website: 'https://arifszn.com',
+    website: 'https://johnnikkoborja.github.io/',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'borjanikko23@gmail.com',
   },
   resume: {
     fileUrl:
